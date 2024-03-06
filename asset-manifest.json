@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TICompanion/static/css/main.0765fb24.css",
+    "main.js": "/TICompanion/static/js/main.51e78089.js",
+    "static/js/453.419a5d54.chunk.js": "/TICompanion/static/js/453.419a5d54.chunk.js",
+    "index.html": "/TICompanion/index.html",
+    "main.0765fb24.css.map": "/TICompanion/static/css/main.0765fb24.css.map",
+    "main.51e78089.js.map": "/TICompanion/static/js/main.51e78089.js.map",
+    "453.419a5d54.chunk.js.map": "/TICompanion/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0765fb24.css",
+    "static/js/main.51e78089.js"
+  ]
+}
